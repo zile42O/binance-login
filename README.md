@@ -1,5 +1,6 @@
 # binance-login
-Selenium &amp; CV2 Binance Script
+### Python
+Selenium &amp; CV2 Binance Script - Login Checker
 
 
 ## How this works?
